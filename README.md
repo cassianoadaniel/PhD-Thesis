@@ -1,2 +1,2 @@
 # PhD-Thesis
-This is my PhD thesis
+This is my PhD thesis (pdf)
